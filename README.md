@@ -1,8 +1,8 @@
 # Covid_Maps_01
 
+Map the public data case rate data at coronavirus.gov.uk including a Lancashire and South Cumbria inset map.
 
-
-environment setup originally from https://github.com/MichaelAllen1966/2010_geopandas![image](https://user-images.githubusercontent.com/90913227/145598444-bbd6783c-ffc8-4d3e-9ce4-2b2a46869953.png)
+environment setup originally from https://github.com/MichaelAllen1966/2010_geopandas
 
 ## Run on BinderHub
 

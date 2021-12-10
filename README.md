@@ -1,8 +1,8 @@
-# 2010_geopandas
-Examples of geopandas.
+# Covid_Maps_01
 
-Notebook 1: Basic geopnadas methods, and production of maps
-Notebook 2: Add an inset map to a main map (e.g. for islands)
+
+
+environment setup originally from https://github.com/MichaelAllen1966/2010_geopandas![image](https://user-images.githubusercontent.com/90913227/145598444-bbd6783c-ffc8-4d3e-9ce4-2b2a46869953.png)
 
 ## Run on BinderHub
 

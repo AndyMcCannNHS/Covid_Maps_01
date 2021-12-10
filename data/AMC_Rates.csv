@@ -1,0 +1,381 @@
+areaCode,areaName,areaType,date,newCasesBySpecimenDateRollingRate
+E06000003,Redcar and Cleveland,ltla,01/12/2021,392
+E07000040,East Devon,ltla,01/12/2021,530.8
+E07000090,Havant,ltla,01/12/2021,655.4
+E07000214,Surrey Heath,ltla,01/12/2021,667
+E07000229,Worthing,ltla,01/12/2021,541
+E08000001,Bolton,ltla,01/12/2021,309.8
+E08000009,Trafford,ltla,01/12/2021,472.7
+E08000016,Barnsley,ltla,01/12/2021,399.5
+E08000032,Bradford,ltla,01/12/2021,275
+E09000003,Barnet,ltla,01/12/2021,416.5
+E09000018,Hounslow,ltla,01/12/2021,423.2
+E09000032,Wandsworth,ltla,01/12/2021,503.4
+E09000033,Westminster,ltla,01/12/2021,312
+S12000045,East Dunbartonshire,ltla,01/12/2021,449.7
+W06000023,Powys,ltla,01/12/2021,448
+E07000006,South Bucks,ltla,01/12/2021,635.7
+E07000067,Braintree,ltla,01/12/2021,580
+E07000094,Winchester,ltla,01/12/2021,598
+E07000125,Rossendale,ltla,01/12/2021,359.8
+E07000155,South Northamptonshire,ltla,01/12/2021,769.7
+E07000169,Selby,ltla,01/12/2021,419.9
+E07000187,Mendip,ltla,01/12/2021,554.7
+E07000203,Mid Suffolk,ltla,01/12/2021,402.5
+E07000234,Bromsgrove,ltla,01/12/2021,491.2
+E08000037,Gateshead,ltla,01/12/2021,408
+E09000024,Merton,ltla,01/12/2021,494.1
+S12000039,West Dunbartonshire,ltla,01/12/2021,398.5
+W06000002,Gwynedd,ltla,01/12/2021,865.2
+W06000009,Pembrokeshire,ltla,01/12/2021,579.9
+E06000038,Reading,ltla,01/12/2021,572.5
+E07000010,Fenland,ltla,01/12/2021,341.9
+E07000031,South Lakeland,ltla,01/12/2021,294.6
+E07000079,Cotswold,ltla,01/12/2021,516.3
+E07000096,Dacorum,ltla,01/12/2021,499.8
+E07000099,North Hertfordshire,ltla,01/12/2021,624.9
+E07000145,Great Yarmouth,ltla,01/12/2021,394.2
+E07000189,South Somerset,ltla,01/12/2021,511.6
+E07000235,Malvern Hills,ltla,01/12/2021,412.9
+E08000015,Wirral,ltla,01/12/2021,390
+E08000021,Newcastle upon Tyne,ltla,01/12/2021,385.2
+N09000005,Derry City and Strabane,ltla,01/12/2021,488.4
+S12000020,Moray,ltla,01/12/2021,312.4
+S12000026,Scottish Borders,ltla,01/12/2021,286.4
+W06000024,Merthyr Tydfil,ltla,01/12/2021,397.2
+E06000004,Stockton-on-Tees,ltla,01/12/2021,382.9
+E06000021,Stoke-on-Trent,ltla,01/12/2021,501.9
+E06000030,Swindon,ltla,01/12/2021,358.5
+E07000026,Allerdale,ltla,01/12/2021,240.2
+E07000032,Amber Valley,ltla,01/12/2021,416.8
+E07000069,Castle Point,ltla,01/12/2021,679.4
+E07000119,Fylde,ltla,01/12/2021,355.9
+E07000140,South Holland,ltla,01/12/2021,374.5
+E07000168,Scarborough,ltla,01/12/2021,306.2
+E07000212,Runnymede,ltla,01/12/2021,555.8
+E08000011,Knowsley,ltla,01/12/2021,413.9
+E09000020,Kensington and Chelsea,ltla,01/12/2021,453.9
+E09000026,Redbridge,ltla,01/12/2021,413.2
+N09000008,Mid and East Antrim,ltla,01/12/2021,628.9
+S12000021,North Ayrshire,ltla,01/12/2021,292.7
+E06000005,Darlington,ltla,01/12/2021,414.3
+E06000051,Shropshire,ltla,01/12/2021,523
+E07000072,Epping Forest,ltla,01/12/2021,490.3
+E07000074,Maldon,ltla,01/12/2021,691.1
+E07000088,Gosport,ltla,01/12/2021,611.7
+E07000095,Broxbourne,ltla,01/12/2021,401.7
+E07000154,Northampton,ltla,01/12/2021,452.5
+E07000221,Stratford-on-Avon,ltla,01/12/2021,541.5
+E07000238,Wychavon,ltla,01/12/2021,489.8
+E07000239,Wyre Forest,ltla,01/12/2021,425.2
+E07000240,St Albans,ltla,01/12/2021,564.6
+E09000016,Havering,ltla,01/12/2021,497.2
+E09000019,Islington,ltla,01/12/2021,359.5
+S12000018,Inverclyde,ltla,01/12/2021,376.3
+S12000038,Renfrewshire,ltla,01/12/2021,298.2
+E06000054,Wiltshire,ltla,01/12/2021,512
+E07000012,South Cambridgeshire,ltla,01/12/2021,678.7
+E07000034,Chesterfield,ltla,01/12/2021,471.7
+E07000035,Derbyshire Dales,ltla,01/12/2021,444.6
+E07000080,Forest of Dean,ltla,01/12/2021,520.1
+E07000110,Maidstone,ltla,01/12/2021,636.5
+E07000130,Charnwood,ltla,01/12/2021,472.4
+E07000146,King's Lynn and West Norfolk,ltla,01/12/2021,393.4
+E07000171,Bassetlaw,ltla,01/12/2021,437.9
+E07000198,Staffordshire Moorlands,ltla,01/12/2021,361.7
+E08000030,Walsall,ltla,01/12/2021,282.2
+E09000007,Camden,ltla,01/12/2021,344.2
+E09000013,Hammersmith and Fulham,ltla,01/12/2021,508.3
+S12000035,Argyll and Bute,ltla,01/12/2021,298.5
+S12000040,West Lothian,ltla,01/12/2021,405.3
+E06000013,North Lincolnshire,ltla,01/12/2021,405.2
+E06000025,South Gloucestershire,ltla,01/12/2021,595.2
+E06000026,Plymouth,ltla,01/12/2021,724
+E06000040,Windsor and Maidenhead,ltla,01/12/2021,622.7
+E06000059,Dorset,ltla,01/12/2021,582.2
+E07000027,Barrow-in-Furness,ltla,01/12/2021,326.7
+E07000063,Lewes,ltla,01/12/2021,840.4
+E07000077,Uttlesford,ltla,01/12/2021,442
+E07000086,Eastleigh,ltla,01/12/2021,790.3
+E07000122,Pendle,ltla,01/12/2021,268.1
+E07000200,Babergh,ltla,01/12/2021,511.1
+E08000027,Dudley,ltla,01/12/2021,410.4
+E08000029,Solihull,ltla,01/12/2021,475.4
+W06000013,Bridgend,ltla,01/12/2021,569.3
+E06000019,"Herefordshire, County of",ltla,01/12/2021,368.3
+E06000049,Cheshire East,ltla,01/12/2021,458.8
+E07000039,South Derbyshire,ltla,01/12/2021,535.1
+E07000076,Tendring,ltla,01/12/2021,509
+E07000102,Three Rivers,ltla,01/12/2021,538.5
+E07000135,Oadby and Wigston,ltla,01/12/2021,474.6
+E07000167,Ryedale,ltla,01/12/2021,413.5
+E07000180,Vale of White Horse,ltla,01/12/2021,641
+E08000018,Rotherham,ltla,01/12/2021,402.3
+E08000026,Coventry,ltla,01/12/2021,298.9
+E08000034,Kirklees,ltla,01/12/2021,240
+E09000030,Tower Hamlets,ltla,01/12/2021,331.1
+S12000011,East Renfrewshire,ltla,01/12/2021,451.8
+W06000008,Ceredigion,ltla,01/12/2021,259.3
+W06000010,Carmarthenshire,ltla,01/12/2021,418.8
+E06000008,Blackburn with Darwen,ltla,01/12/2021,322.6
+E06000039,Slough,ltla,01/12/2021,437.2
+E07000008,Cambridge,ltla,01/12/2021,595.7
+E07000030,Eden,ltla,01/12/2021,370.2
+E07000137,East Lindsey,ltla,01/12/2021,348.5
+E07000142,West Lindsey,ltla,01/12/2021,430.4
+E07000199,Tamworth,ltla,01/12/2021,662.2
+E07000224,Arun,ltla,01/12/2021,674
+E07000246,Somerset West and Taunton,ltla,01/12/2021,279.2
+E08000014,Sefton,ltla,01/12/2021,408.8
+E09000002,Barking and Dagenham,ltla,01/12/2021,344.2
+E09000005,Brent,ltla,01/12/2021,343.6
+E09000011,Greenwich,ltla,01/12/2021,450.5
+W06000005,Flintshire,ltla,01/12/2021,515.2
+W06000020,Torfaen,ltla,01/12/2021,456.6
+E06000046,Isle of Wight,ltla,01/12/2021,554.5
+E06000052,Cornwall and Isles of Scilly,ltla,01/12/2021,579.5
+E07000042,Mid Devon,ltla,01/12/2021,713.2
+E07000085,East Hampshire,ltla,01/12/2021,571.7
+E07000093,Test Valley,ltla,01/12/2021,753.4
+E07000108,Dover,ltla,01/12/2021,508
+E07000111,Sevenoaks,ltla,01/12/2021,596.4
+E07000114,Thanet,ltla,01/12/2021,480
+E07000124,Ribble Valley,ltla,01/12/2021,465.9
+E07000193,East Staffordshire,ltla,01/12/2021,435.8
+E07000211,Reigate and Banstead,ltla,01/12/2021,808.7
+E07000220,Rugby,ltla,01/12/2021,459.1
+E07000236,Redditch,ltla,01/12/2021,517.7
+E08000022,North Tyneside,ltla,01/12/2021,458.7
+E08000024,Sunderland,ltla,01/12/2021,345.5
+E06000009,Blackpool,ltla,01/12/2021,406.1
+E06000022,Bath and North East Somerset,ltla,01/12/2021,377.4
+E06000055,Bedford,ltla,01/12/2021,490.6
+E07000033,Bolsover,ltla,01/12/2021,350.5
+E07000038,North East Derbyshire,ltla,01/12/2021,448.1
+E07000064,Rother,ltla,01/12/2021,635.9
+E07000123,Preston,ltla,01/12/2021,303.2
+E07000197,Stafford,ltla,01/12/2021,453.4
+E07000207,Elmbridge,ltla,01/12/2021,796.6
+E08000012,Liverpool,ltla,01/12/2021,391.2
+E09000028,Southwark,ltla,01/12/2021,394
+E09000031,Waltham Forest,ltla,01/12/2021,460
+N09000006,Fermanagh and Omagh,ltla,01/12/2021,567.6
+S12000019,Midlothian,ltla,01/12/2021,288.8
+W06000016,Rhondda Cynon Taf,ltla,01/12/2021,388.2
+E06000043,Brighton and Hove,ltla,01/12/2021,586.1
+E06000057,Northumberland,ltla,01/12/2021,358.5
+E07000011,Huntingdonshire,ltla,01/12/2021,660.4
+E07000089,Hart,ltla,01/12/2021,720.2
+E07000120,Hyndburn,ltla,01/12/2021,361.1
+E07000141,South Kesteven,ltla,01/12/2021,516.7
+E07000178,Oxford,ltla,01/12/2021,436.1
+E07000209,Guildford,ltla,01/12/2021,700.4
+E09000010,Enfield,ltla,01/12/2021,337.2
+N09000002,"Armagh City, Banbridge and Craigavon",ltla,01/12/2021,593.4
+S12000017,Highland,ltla,01/12/2021,235.3
+S12000033,Aberdeen City,ltla,01/12/2021,314.3
+S12000047,Fife,ltla,01/12/2021,413.5
+W06000015,Cardiff,ltla,01/12/2021,485.4
+W06000021,Monmouthshire,ltla,01/12/2021,473.9
+E06000002,Middlesbrough,ltla,01/12/2021,329.1
+E06000020,Telford and Wrekin,ltla,01/12/2021,607.2
+E07000004,Aylesbury Vale,ltla,01/12/2021,481.5
+E07000036,Erewash,ltla,01/12/2021,546.2
+E07000121,Lancaster,ltla,01/12/2021,328.8
+E07000131,Harborough,ltla,01/12/2021,624.9
+E07000219,Nuneaton and Bedworth,ltla,01/12/2021,395.8
+E07000244,East Suffolk,ltla,01/12/2021,343.1
+E07000245,West Suffolk,ltla,01/12/2021,526.2
+E08000004,Oldham,ltla,01/12/2021,326.1
+E09000021,Kingston upon Thames,ltla,01/12/2021,566
+E09000025,Newham,ltla,01/12/2021,315.8
+S12000010,East Lothian,ltla,01/12/2021,420.8
+S12000027,Shetland Islands,ltla,01/12/2021,131.2
+W06000019,Blaenau Gwent,ltla,01/12/2021,495.6
+E06000011,East Riding of Yorkshire,ltla,01/12/2021,426.9
+E06000036,Bracknell Forest,ltla,01/12/2021,531.6
+E06000041,Wokingham,ltla,01/12/2021,677.2
+E06000042,Milton Keynes,ltla,01/12/2021,632.1
+E07000087,Fareham,ltla,01/12/2021,677.3
+E07000103,Watford,ltla,01/12/2021,491.6
+E07000136,Boston,ltla,01/12/2021,496.9
+E07000152,East Northamptonshire,ltla,01/12/2021,568.9
+E07000202,Ipswich,ltla,01/12/2021,353
+E07000213,Spelthorne,ltla,01/12/2021,723.9
+E07000223,Adur,ltla,01/12/2021,487.6
+N09000010,"Newry, Mourne and Down",ltla,01/12/2021,789.3
+N09000011,Ards and North Down,ltla,01/12/2021,643
+W06000004,Denbighshire,ltla,01/12/2021,411.7
+W06000018,Caerphilly,ltla,01/12/2021,443
+E06000014,York,ltla,01/12/2021,376.8
+E07000028,Carlisle,ltla,01/12/2021,235
+E07000029,Copeland,ltla,01/12/2021,363
+E07000062,Hastings,ltla,01/12/2021,802.8
+E07000065,Wealden,ltla,01/12/2021,672.3
+E07000075,Rochford,ltla,01/12/2021,619.7
+E07000113,Swale,ltla,01/12/2021,608.5
+E07000156,Wellingborough,ltla,01/12/2021,558.2
+E07000166,Richmondshire,ltla,01/12/2021,496.9
+E07000188,Sedgemoor,ltla,01/12/2021,431.8
+E07000210,Mole Valley,ltla,01/12/2021,726.5
+E07000237,Worcester,ltla,01/12/2021,611.4
+E08000035,Leeds,ltla,01/12/2021,322.4
+S12000013,Comhairle nan Eilean Siar,ltla,01/12/2021,298.1
+S12000029,South Lanarkshire,ltla,01/12/2021,361.9
+E06000023,"Bristol, City of",ltla,01/12/2021,403.8
+E06000050,Cheshire West and Chester,ltla,01/12/2021,533.1
+E07000061,Eastbourne,ltla,01/12/2021,751
+E07000070,Chelmsford,ltla,01/12/2021,584.2
+E07000118,Chorley,ltla,01/12/2021,482
+E07000139,North Kesteven,ltla,01/12/2021,513.8
+E07000179,South Oxfordshire,ltla,01/12/2021,698.3
+E07000181,West Oxfordshire,ltla,01/12/2021,645.1
+E07000196,South Staffordshire,ltla,01/12/2021,508.1
+E08000007,Stockport,ltla,01/12/2021,409.6
+E08000023,South Tyneside,ltla,01/12/2021,290.5
+E08000031,Wolverhampton,ltla,01/12/2021,322.2
+E09000014,Haringey,ltla,01/12/2021,371.7
+S12000028,South Ayrshire,ltla,01/12/2021,363.8
+S12000050,North Lanarkshire,ltla,01/12/2021,392.8
+E06000015,Derby,ltla,01/12/2021,444.7
+E07000005,Chiltern,ltla,01/12/2021,517.6
+E07000046,Torridge,ltla,01/12/2021,1027.4
+E07000081,Gloucester,ltla,01/12/2021,723.9
+E07000098,Hertsmere,ltla,01/12/2021,467.4
+E07000143,Breckland,ltla,01/12/2021,388.7
+E07000144,Broadland,ltla,01/12/2021,412.3
+E07000150,Corby,ltla,01/12/2021,603.7
+E07000172,Broxtowe,ltla,01/12/2021,506
+E07000174,Mansfield,ltla,01/12/2021,422.5
+E08000002,Bury,ltla,01/12/2021,399.6
+E09000027,Richmond upon Thames,ltla,01/12/2021,681.3
+S12000006,Dumfries and Galloway,ltla,01/12/2021,386.4
+W06000014,Vale of Glamorgan,ltla,01/12/2021,588.3
+W06000022,Newport,ltla,01/12/2021,490.9
+E06000016,Leicester,ltla,01/12/2021,352.2
+E06000024,North Somerset,ltla,01/12/2021,455.1
+E06000027,Torbay,ltla,01/12/2021,709.2
+E06000058,"Bournemouth, Christchurch and Poole",ltla,01/12/2021,657.2
+E07000037,High Peak,ltla,01/12/2021,277.4
+E07000106,Canterbury,ltla,01/12/2021,544.5
+E07000107,Dartford,ltla,01/12/2021,514.7
+E07000133,Melton,ltla,01/12/2021,603.2
+E07000163,Craven,ltla,01/12/2021,465.7
+E07000216,Waverley,ltla,01/12/2021,852.6
+E07000241,Welwyn Hatfield,ltla,01/12/2021,529.5
+E08000017,Doncaster,ltla,01/12/2021,372.1
+E09000012,Hackney and City of London,ltla,01/12/2021,356.7
+S12000034,Aberdeenshire,ltla,01/12/2021,280.7
+W06000006,Wrexham,ltla,01/12/2021,535.8
+E06000012,North East Lincolnshire,ltla,01/12/2021,594.2
+E06000033,Southend-on-Sea,ltla,01/12/2021,694.9
+E07000041,Exeter,ltla,01/12/2021,613.5
+E07000043,North Devon,ltla,01/12/2021,874
+E07000112,Folkestone and Hythe,ltla,01/12/2021,533
+E07000117,Burnley,ltla,01/12/2021,300
+E07000132,Hinckley and Bosworth,ltla,01/12/2021,525.2
+E07000165,Harrogate,ltla,01/12/2021,469.8
+E07000222,Warwick,ltla,01/12/2021,427.2
+E08000003,Manchester,ltla,01/12/2021,319.8
+N09000001,Antrim and Newtownabbey,ltla,01/12/2021,733.9
+S12000008,East Ayrshire,ltla,01/12/2021,555.9
+S12000014,Falkirk,ltla,01/12/2021,614.1
+S12000030,Stirling,ltla,01/12/2021,335.9
+S12000042,Dundee City,ltla,01/12/2021,203.6
+E06000045,Southampton,ltla,01/12/2021,504.6
+E07000007,Wycombe,ltla,01/12/2021,729
+E07000129,Blaby,ltla,01/12/2021,459
+E07000151,Daventry,ltla,01/12/2021,487.6
+E07000170,Ashfield,ltla,01/12/2021,360.8
+E07000217,Woking,ltla,01/12/2021,601
+E08000006,Salford,ltla,01/12/2021,401.6
+E08000019,Sheffield,ltla,01/12/2021,285.6
+E08000033,Calderdale,ltla,01/12/2021,308.8
+E09000008,Croydon,ltla,01/12/2021,431.8
+E09000022,Lambeth,ltla,01/12/2021,436.3
+E09000029,Sutton,ltla,01/12/2021,628.3
+N09000004,Causeway Coast and Glens,ltla,01/12/2021,616.8
+N09000009,Mid Ulster,ltla,01/12/2021,688.1
+W06000012,Neath Port Talbot,ltla,01/12/2021,375.4
+E06000056,Central Bedfordshire,ltla,01/12/2021,665.1
+E07000078,Cheltenham,ltla,01/12/2021,501.5
+E07000082,Stroud,ltla,01/12/2021,435.9
+E07000105,Ashford,ltla,01/12/2021,822.8
+E07000126,South Ribble,ltla,01/12/2021,397.9
+E07000138,Lincoln,ltla,01/12/2021,416.8
+E07000148,Norwich,ltla,01/12/2021,353.1
+E07000149,South Norfolk,ltla,01/12/2021,310.3
+E07000177,Cherwell,ltla,01/12/2021,731
+E07000225,Chichester,ltla,01/12/2021,667.4
+E07000227,Horsham,ltla,01/12/2021,542.4
+E08000025,Birmingham,ltla,01/12/2021,314.4
+E08000028,Sandwell,ltla,01/12/2021,339.5
+E08000036,Wakefield,ltla,01/12/2021,364.9
+N09000003,Belfast,ltla,01/12/2021,605.4
+E06000001,Hartlepool,ltla,01/12/2021,324
+E06000010,"Kingston upon Hull, City of",ltla,01/12/2021,500.9
+E06000017,Rutland,ltla,01/12/2021,714
+E07000047,West Devon,ltla,01/12/2021,666.2
+E07000066,Basildon,ltla,01/12/2021,676.6
+E07000068,Brentwood,ltla,01/12/2021,681
+E07000091,New Forest,ltla,01/12/2021,572.8
+E07000092,Rushmoor,ltla,01/12/2021,656.9
+E07000153,Kettering,ltla,01/12/2021,575.3
+E07000164,Hambleton,ltla,01/12/2021,413.3
+E08000010,Wigan,ltla,01/12/2021,431.8
+E09000006,Bromley,ltla,01/12/2021,526.2
+E09000015,Harrow,ltla,01/12/2021,356.7
+S12000041,Angus,ltla,01/12/2021,360
+W06000003,Conwy,ltla,01/12/2021,371.5
+E06000032,Luton,ltla,01/12/2021,475.3
+E06000044,Portsmouth,ltla,01/12/2021,711.7
+E07000073,Harlow,ltla,01/12/2021,619.8
+E07000173,Gedling,ltla,01/12/2021,608.9
+E07000175,Newark and Sherwood,ltla,01/12/2021,503.5
+E07000192,Cannock Chase,ltla,01/12/2021,423.7
+E07000195,Newcastle-under-Lyme,ltla,01/12/2021,443.6
+E07000228,Mid Sussex,ltla,01/12/2021,842.6
+E07000242,East Hertfordshire,ltla,01/12/2021,580.4
+E09000004,Bexley,ltla,01/12/2021,491.4
+E09000023,Lewisham,ltla,01/12/2021,420.6
+N09000007,Lisburn and Castlereagh,ltla,01/12/2021,676
+S12000023,Orkney Islands,ltla,01/12/2021,129.5
+S12000036,City of Edinburgh,ltla,01/12/2021,323.5
+W06000001,Isle of Anglesey,ltla,01/12/2021,692.8
+E06000006,Halton,ltla,01/12/2021,400
+E06000034,Thurrock,ltla,01/12/2021,602.2
+E07000109,Gravesham,ltla,01/12/2021,553.8
+E07000115,Tonbridge and Malling,ltla,01/12/2021,626.1
+E07000127,West Lancashire,ltla,01/12/2021,349.4
+E07000134,North West Leicestershire,ltla,01/12/2021,490.4
+E07000147,North Norfolk,ltla,01/12/2021,368.9
+E07000194,Lichfield,ltla,01/12/2021,479
+E07000208,Epsom and Ewell,ltla,01/12/2021,601.2
+E07000226,Crawley,ltla,01/12/2021,721.9
+E08000005,Rochdale,ltla,01/12/2021,398.8
+E08000008,Tameside,ltla,01/12/2021,402.9
+E09000009,Ealing,ltla,01/12/2021,430.2
+S12000049,Glasgow City,ltla,01/12/2021,271.5
+E06000007,Warrington,ltla,01/12/2021,519.1
+E06000018,Nottingham,ltla,01/12/2021,402
+E06000031,Peterborough,ltla,01/12/2021,493.5
+E06000035,Medway,ltla,01/12/2021,611.9
+E07000009,East Cambridgeshire,ltla,01/12/2021,561.1
+E07000045,Teignbridge,ltla,01/12/2021,793.1
+E07000083,Tewkesbury,ltla,01/12/2021,588.9
+E07000128,Wyre,ltla,01/12/2021,287.4
+E07000215,Tandridge,ltla,01/12/2021,804.1
+E07000218,North Warwickshire,ltla,01/12/2021,473.6
+E07000243,Stevenage,ltla,01/12/2021,567.5
+E08000013,St. Helens,ltla,01/12/2021,435.1
+S12000005,Clackmannanshire,ltla,01/12/2021,368.5
+S12000048,Perth and Kinross,ltla,01/12/2021,260
+W06000011,Swansea,ltla,01/12/2021,403.1
+E06000037,West Berkshire,ltla,01/12/2021,585.6
+E06000047,County Durham,ltla,01/12/2021,381.7
+E07000044,South Hams,ltla,01/12/2021,799.4
+E07000071,Colchester,ltla,01/12/2021,596.9
+E07000084,Basingstoke and Deane,ltla,01/12/2021,497.9
+E07000116,Tunbridge Wells,ltla,01/12/2021,702
+E07000176,Rushcliffe,ltla,01/12/2021,588.1
+E09000017,Hillingdon,ltla,01/12/2021,384.8

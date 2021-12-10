@@ -8,7 +8,7 @@ environment setup originally from https://github.com/MichaelAllen1966/2010_geopa
 
 (Note: This may take a while to start if it has not been used for a while)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/2010_geopandas/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyMcCannNHS/Covid_Maps_01/main)
 
 
 ## Set up the anaconda environment locally
